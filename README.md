@@ -15,7 +15,7 @@ This example demonstrates:
 
 ## Prerequisites
 
-- Go 1.16 or higher
+- Go 1.20 or higher
 - A running Casdoor instance (or access to a Casdoor server)
 - Casdoor credentials (Client ID and Client Secret)
 

@@ -247,7 +247,7 @@ func main() {
 		fmt.Printf("Error: %v\n", err)
 	} else {
 		for i, result := range results {
-			fmt.Printf("Request %v: %v = %v\n", requests[i], result, results[i])
+			fmt.Printf("Request %v: %v\n", requests[i], result)
 		}
 	}
 	fmt.Println()
