@@ -1,8 +1,0 @@
-p, alice, data1, read
-p, alice, data1, write
-p, bob, data2, read
-p, data_admin, data3, read
-p, data_admin, data3, write
-
-g, alice, admin
-g, bob, user
